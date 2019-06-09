@@ -1,2 +1,2 @@
-# SuRocky.github.io
-my first blog
+# 磐石
+我的技术博客，敬请期待。。。
